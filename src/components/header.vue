@@ -13,11 +13,8 @@ export default {
 </script>
 
 <template>
-  <div class="container-lg">
-    <div class="d-flex justify-content-between">
-      <div class="logodiv">
-        <img src="../../public/img/header/logo.webp" alt="Studio Tecnico Pedrini Logo">
-      </div>
+  <div class="container">
+    <div class="">
       <div class="menudiv">
         <ul class="d-flex justify-content-around">
           <li class="ms-4">Chi Siamo</li>
@@ -26,6 +23,9 @@ export default {
           <li class="ms-4">Contatti</li>
         </ul>
       </div>
+      <div class="logodiv d-flex justify-content-center">
+        <img src="../../public/img/header/logo.webp" alt="Studio Tecnico Pedrini Logo">
+      </div>
     </div>
   </div>
     
@@ -33,16 +33,20 @@ export default {
 
 <style lang="scss">
 
+@import '../style/main.scss';
+
 img{
   width: 100%;
 }
 
 .logodiv{
-  width: 25%;
+  width: 80%;
+  margin: auto;
 }
 
 .menudiv{
-  width: 75%;
+  width: 80%;
+  margin: auto;
 }
 
 
