@@ -14,12 +14,12 @@ export default {
 
 <template>
   <div class="container-lg">
-    <div class="d-flex justify-content-between logodiv">
-      <div>
+    <div class="d-flex justify-content-between">
+      <div class="logodiv">
         <img src="../../public/img/header/logo.webp" alt="Studio Tecnico Pedrini Logo">
       </div>
       <div class="menudiv">
-        <ul class="d-flex">
+        <ul class="d-flex justify-content-around">
           <li class="ms-4">Chi Siamo</li>
           <li class="ms-4">Servizi</li>
           <li class="ms-4">Dove Siamo</li>
@@ -38,11 +38,11 @@ img{
 }
 
 .logodiv{
-  width: 40%;
+  width: 25%;
 }
 
 .menudiv{
-  width: 60%;
+  width: 75%;
 }
 
 
