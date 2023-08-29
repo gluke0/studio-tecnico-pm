@@ -1,4 +1,5 @@
 <script>
+import whoarewe from './views/whoarewe.vue';
 
 export default {
   name: "Main",
@@ -7,6 +8,7 @@ export default {
     }
   },
   components: {
+    whoarewe
     
   },
 }
@@ -14,6 +16,8 @@ export default {
 
 <template>
     
+  <whoarewe></whoarewe>
+
 </template>
 
 <style lang="scss">
