@@ -1,5 +1,6 @@
 <script>
 import whoarewe from './views/whoarewe.vue';
+import services from './views/services.vue';
 
 export default {
   name: "Main",
@@ -8,7 +9,8 @@ export default {
     }
   },
   components: {
-    whoarewe
+    whoarewe,
+    services,
     
   },
 }
@@ -17,6 +19,7 @@ export default {
 <template>
     
   <whoarewe></whoarewe>
+  <services></services>
 
 </template>
 
