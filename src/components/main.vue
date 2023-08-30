@@ -24,5 +24,5 @@ export default {
 </template>
 
 <style lang="scss">
-
+@import '../style/main.scss';
 </style>
