@@ -14,26 +14,17 @@ export default {
 
 <template>
   <div class="container">
-    <div class="d-flex justify-content-between">
+    <div class="">
       <div>
-        <ul class="">
-          <li class="ms-4"><a href="">Chi siamo</a></li>
+        <ul class="d-flex justify-content-center">
+          <li class=""><a href="">Chi siamo</a></li>
           <li class="ms-4"><a href="">Servizi</a></li>
-          <li class="ms-4"><a href="">Dove Siamo</a></li>
           <li class="ms-4"><a href="">Contatti</a></li>
         </ul>
       </div>
       <div>
-        <ul class="">
-          <a target="_blank" href="https://www.facebook.com/Studio%20tecnico%20Pedrini"><i class="fa-brands fa-square-facebook"></i></a>
-        </ul>
-      </div>
-      <div>
-        <ul class="">
-          <li class="ms-4"><a href="">Chi siamo</a></li>
-          <li class="ms-4"><a href="">Servizi</a></li>
-          <li class="ms-4"><a href="">Dove Siamo</a></li>
-          <li class="ms-4"><a href="">Contatti</a></li>
+        <ul class="d-flex justify-content-center">
+          <span>Studio Tecnico Pedrini - 2023</span>
         </ul>
       </div>
     </div>

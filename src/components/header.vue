@@ -17,9 +17,8 @@ export default {
     <div class="">
       <div class="menudiv">
         <ul class="d-flex justify-content-around">
-          <li class="ms-4"><a href="">Chi siamo</a></li>
+          <li class=""><a href="">Chi siamo</a></li>
           <li class="ms-4"><a href="">Servizi</a></li>
-          <li class="ms-4"><a href="">Dove Siamo</a></li>
           <li class="ms-4"><a href="">Contatti</a></li>
         </ul>
       </div>
