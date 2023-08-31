@@ -13,9 +13,9 @@ export default {
 </script>
 
 <template>
-  <div class="container">
-    <div class="">
-      <div>
+  <div class="">
+    <div class="foot">
+      <div class="">
         <ul class="d-flex justify-content-center">
           <li><a class="text-decoration-none text-dark" href="">Chi siamo</a></li>
           <li class="ms-4"><a class="text-decoration-none text-dark" href="">Servizi</a></li>
@@ -34,5 +34,9 @@ export default {
 <style lang="scss">
 @import '../style/main.scss';
 
-
+.foot{
+  width: 100%;
+  background-color: #4c6e8d;
+  padding: 2rem;
+}
 </style>
