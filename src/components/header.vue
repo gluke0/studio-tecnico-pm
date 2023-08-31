@@ -13,16 +13,16 @@ export default {
 </script>
 
 <template>
-  <div class="container">
+  <div class="">
     <div class="">
       <div class="menudiv">
         <ul class="d-flex justify-content-around">
-          <li class=""><a class="text-decoration-none text-dark" href="">Chi siamo</a></li>
-          <li class="ms-4"><a class="text-decoration-none text-dark" href="">Servizi</a></li>
-          <li class="ms-4"><a class="text-decoration-none text-dark" href="">Contatti</a></li>
+          <li class=""><a class="text-decoration-none text-dark text-uppercase" href="">Chi siamo</a></li>
+          <li class=""><a class="text-decoration-none text-dark text-uppercase" href="">Servizi</a></li>
+          <li class=""><a class="text-decoration-none text-dark text-uppercase" href="">Contatti</a></li>
         </ul>
       </div>
-      <div class="logodiv d-flex justify-content-center">
+      <div class="logodiv d-flex justify-content-center container">
         <img src="../../public/img/header/logonobg.svg" alt="Studio Tecnico Pedrini Logo">
       </div>
     </div>
@@ -44,8 +44,11 @@ img{
 }
 
 .menudiv{
-  width: 80%;
+  width: 100%;
   margin: auto;
+  background-color: #4c6e8d;
+  font-size: 1.5rem;
+  height: 5rem;
 }
 
 
