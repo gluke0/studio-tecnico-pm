@@ -17,9 +17,9 @@ export default {
     <div class="">
       <div>
         <ul class="d-flex justify-content-center">
-          <li class=""><a href="">Chi siamo</a></li>
-          <li class="ms-4"><a href="">Servizi</a></li>
-          <li class="ms-4"><a href="">Contatti</a></li>
+          <li><a class="text-decoration-none" href="">Chi siamo</a></li>
+          <li class="ms-4"><a class="text-decoration-none" href="">Servizi</a></li>
+          <li class="ms-4"><a class="text-decoration-none" href="">Contatti</a></li>
         </ul>
       </div>
       <div>
@@ -34,8 +34,4 @@ export default {
 <style lang="scss">
 @import '../style/main.scss';
 
-.fa-brands{
-  font-size: 4rem;
-  color: #22313f;
-}
 </style>
