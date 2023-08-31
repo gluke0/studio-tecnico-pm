@@ -17,9 +17,9 @@ export default {
     <div class="">
       <div>
         <ul class="d-flex justify-content-center">
-          <li><a class="text-decoration-none" href="">Chi siamo</a></li>
-          <li class="ms-4"><a class="text-decoration-none" href="">Servizi</a></li>
-          <li class="ms-4"><a class="text-decoration-none" href="">Contatti</a></li>
+          <li><a class="text-decoration-none text-dark" href="">Chi siamo</a></li>
+          <li class="ms-4"><a class="text-decoration-none text-dark" href="">Servizi</a></li>
+          <li class="ms-4"><a class="text-decoration-none text-dark" href="">Contatti</a></li>
         </ul>
       </div>
       <div>
@@ -33,5 +33,6 @@ export default {
 
 <style lang="scss">
 @import '../style/main.scss';
+
 
 </style>
