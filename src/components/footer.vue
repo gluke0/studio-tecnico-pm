@@ -23,7 +23,7 @@ export default {
         </ul>
       </div>
       <div>
-        <ul class="d-flex justify-content-center">
+        <ul class="d-flex justify-content-center credit">
           <span>Studio Tecnico Pedrini - 2023</span>
         </ul>
       </div>
@@ -39,4 +39,11 @@ export default {
   background-color: #4c6e8d;
   padding: 2rem;
 }
+
+.credit{
+  font-size: smaller;
+  font-style: italic;
+}
+
+
 </style>
