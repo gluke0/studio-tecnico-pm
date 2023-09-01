@@ -19,7 +19,7 @@ export default {
         <div>
             <h4 class="text-uppercase">ufficio tecnico</h4>
             <span>
-                Progettazione 3D e 2D che spaziano dal meccanico al design; realizzazione progetti in co-design con il cliente che seguirà passo-passo lo sviluppo del progetto fino alla sua conclusione
+                Offriamo servizi di progettazione 3D e 2D che abbracciano diversi settori, dal meccanico al design. La nostra competenza ci permette di realizzare progetti personalizzati in co-design con il cliente, coinvolgendolo attivamente in ogni fase di sviluppo fino al completamento del progetto.
             </span>
         </div>
         <div>

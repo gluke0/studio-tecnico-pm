@@ -27,5 +27,8 @@ export default {
 
 .slogan{
     width: 70%;
+    line-height: 2;
+    font-size: 1.1rem;
+    font-style: italic;
 }
 </style>
