@@ -27,8 +27,4 @@ export default {
 <style lang="scss">
 @import '../../style/main.scss';
 
-.content{
-    width: 75%;
-}
-
 </style>
