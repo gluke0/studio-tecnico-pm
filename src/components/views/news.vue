@@ -17,7 +17,13 @@ export default {
    <div class="container">
 
     <div class="content">
-        here just news and sponsorhips
+       <div class="news">
+
+       </div>
+
+       <div class="sponsor">
+
+       </div>
     </div>
 
    </div>

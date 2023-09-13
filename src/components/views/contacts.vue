@@ -38,6 +38,7 @@ export default {
                 <a class="text-decoration-none" target="_blank" href="https://www.facebook.com/Studio%20tecnico%20Pedrini"><i class="fa-brands fa-square-facebook"></i></a>
                 <a class="text-decoration-none text-dark" target="_blank" href="https://www.facebook.com/Studio%20tecnico%20Pedrini">Studio Tecnico Pedrini </a>
             </div>
+            
         </div>
     </div>
 </template>
