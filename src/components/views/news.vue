@@ -17,13 +17,17 @@ export default {
    <div class="container">
 
     <div class="content">
-       <div class="news">
+      <div class="news">
 
-       </div>
+        qui ci saranno le notizie riguardanti la società
 
-       <div class="sponsor">
+      </div>
 
-       </div>
+      <div class="sponsor">
+
+        qui ci saranno le aziende da sponsorizzare
+
+      </div>
     </div>
 
    </div>
