@@ -23,7 +23,7 @@ export default {
         </ul>
       </div>
       <div class="logodiv d-flex justify-content-center container">
-        <img src="../../public/img/header/logonobg.svg" alt="Studio Tecnico Pedrini Logo">
+        <!-- <img src="../../public/img/header/logonobg.svg" alt="Studio Tecnico Pedrini Logo"> -->
       </div>
     </div>
   </div>
