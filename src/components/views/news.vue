@@ -19,7 +19,7 @@ export default {
     <div class="content">
       <div class="news">
 
-       news in a carousel 
+        news in a carousel 
 
       </div>
 
