@@ -19,13 +19,13 @@ export default {
     <div class="content">
       <div class="news">
 
-        qui ci saranno le notizie riguardanti la società
+       news in a carousel 
 
       </div>
 
       <div class="sponsor">
 
-        qui ci saranno le aziende da sponsorizzare
+        sponsor in a carousel
 
       </div>
     </div>
