@@ -24,8 +24,8 @@ export default {
       </div>
       <div class="logodiv d-flex justify-content-center container">
 
-        <!-- <img src="../../public/img/header/logonobg.svg" alt="Studio Tecnico Pedrini Logo"> -->
-        
+        <img src="/img/header/oldlogo.webp" alt="Studio Tecnico Pedrini Logo">
+
       </div>
     </div>
   </div>
@@ -37,11 +37,11 @@ export default {
 @import '../style/main.scss';
 
 img{
-  width: 100%;
+  width: 70%;
 }
 
 .logodiv{
-  width: 80%;
+  width: 100%;
   margin: auto;
 }
 
