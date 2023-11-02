@@ -36,7 +36,7 @@ export default {
 @import '../../style/main.scss';
 
 .slogan{
-    width: 70%;
+    width: 75%;
     line-height: 2;
     font-size: 1.1rem;
     font-style: italic;
