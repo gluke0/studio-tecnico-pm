@@ -61,7 +61,7 @@ export default {
 @import '../../style/main.scss';
 
 .services{
-    width: 75%;
+    width: 70%;
 }
 
 </style>
