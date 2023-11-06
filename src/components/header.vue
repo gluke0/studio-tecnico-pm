@@ -48,7 +48,7 @@ img{
 .menudiv{
   width: 100%;
   margin: auto;
-  background-color: #4c6e8d;
+  background-color: rgb(96, 178, 249);
   font-size: 1.5rem;
   height: 5rem;
 }
