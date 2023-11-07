@@ -18,7 +18,9 @@ export default {
       <div class="menudiv">
         <ul class="d-flex justify-content-around py-4">
           <li class=""><a class="text-decoration-none text-dark text-uppercase" href="">Chi siamo</a></li>
+
           <li class=""><a class="text-decoration-none text-dark text-uppercase" href="">Servizi</a></li>
+          
           <li class=""><a class="text-decoration-none text-dark text-uppercase" href="">Contatti</a></li>
         </ul>
       </div>
