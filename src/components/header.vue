@@ -44,7 +44,7 @@ img{
 
 .logodiv{
   width: 100%;
-  margin: auto;.
+  margin: auto;
 }
 
 .menudiv{
