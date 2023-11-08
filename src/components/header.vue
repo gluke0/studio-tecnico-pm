@@ -19,8 +19,8 @@ export default {
         <ul class="d-flex justify-content-around py-4">
           <li class=""><a class="text-decoration-none text-dark text-uppercase" href="">Chi siamo</a></li>
 
-          <li class=""><a class="text-decoration-none text-dark text-uppercase" href="">Servizi</a></li>
-          
+          <li class=""><a class="text-decoration-none text-dark text-uppercase" href="">Cosa facciamo</a></li>
+
           <li class=""><a class="text-decoration-none text-dark text-uppercase" href="">Contatti</a></li>
         </ul>
       </div>
@@ -44,7 +44,7 @@ img{
 
 .logodiv{
   width: 100%;
-  margin: auto;
+  margin: auto;.
 }
 
 .menudiv{
