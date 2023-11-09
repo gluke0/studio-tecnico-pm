@@ -36,7 +36,7 @@ export default {
 
 .foot{
   width: 100%;
-  background-color: #4c6e8d;
+  background-color: rgb(96, 178, 249);  
   padding: 2rem;
 }
 
