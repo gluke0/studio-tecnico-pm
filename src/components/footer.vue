@@ -18,11 +18,11 @@ export default {
       <div class="">
         <ul class="d-flex justify-content-center">
 
-          <li><a class="text-decoration-none text-dark" href="">Chi siamo</a></li>
+          <li><a class="text-decoration-none text-dark" href=""> Chi siamo </a></li>
 
-          <li class="ms-4"><a class="text-decoration-none text-dark" href="">Servizi</a></li>
+          <li class="ms-4"><a class="text-decoration-none text-dark" href=""> Cosa facciamo</a></li>
 
-          <li class="ms-4"><a class="text-decoration-none text-dark" href="">Contatti</a></li>
+          <li class="ms-4"><a class="text-decoration-none text-dark" href=""> Come contattarci </a></li>
 
         </ul>
       </div>
