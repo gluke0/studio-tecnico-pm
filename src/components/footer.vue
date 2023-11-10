@@ -23,12 +23,12 @@ export default {
           <li class="ms-4"><a class="text-decoration-none text-dark" href="">Servizi</a></li>
 
           <li class="ms-4"><a class="text-decoration-none text-dark" href="">Contatti</a></li>
-          
+
         </ul>
       </div>
       <div>
         <ul class="d-flex justify-content-center credit">
-          <span>Studio Tecnico Pedrini - 2023</span>
+          <span> Studio Tecnico Pedrini </span>
         </ul>
       </div>
     </div>
