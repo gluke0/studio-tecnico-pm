@@ -56,4 +56,8 @@ export default {
     width: 50%;
 }
 
+.icons:hover{
+    transform: scale(1.1);
+}
+
 </style>
