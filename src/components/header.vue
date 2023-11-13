@@ -21,7 +21,7 @@ export default {
 
           <li class=""><a class="text-decoration-none text-dark text-uppercase" href=""> Cosa facciamo </a></li>
 
-          <li class=""><a class="text-decoration-none text-dark text-uppercase" href=""> Contatti </a></li>
+          <li class=""><a class="text-decoration-none text-dark text-uppercase" href=""> Come contattarci </a></li>
         </ul>
       </div>
       <div class="logodiv d-flex justify-content-center container">
