@@ -14,7 +14,7 @@ export default {
 
 <template>
     
-   <div class="container">
+  <div class="container d-flex justify-content-center">
 
     <div class="content">
       <div class="news">
@@ -30,11 +30,19 @@ export default {
       </div>
     </div>
 
-   </div>
+  </div>
 
 </template>
 
 <style lang="scss">
 @import '../../style/main.scss';
+
+.news{
+  margin: 3rem 0rem;
+}
+
+.content{
+  width: 75%;
+}
 
 </style>
