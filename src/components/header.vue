@@ -17,11 +17,13 @@ export default {
     <div class="">
       <div class="menudiv">
         <ul class="d-flex justify-content-around py-4">
+
           <li class=""><a class="text-decoration-none text-dark text-uppercase" href=""> Chi siamo </a></li>
 
           <li class=""><a class="text-decoration-none text-dark text-uppercase" href=""> Cosa facciamo </a></li>
 
           <li class=""><a class="text-decoration-none text-dark text-uppercase" href=""> Come contattarci </a></li>
+          
         </ul>
       </div>
       <div class="logodiv d-flex justify-content-center container">
