@@ -17,7 +17,7 @@ export default {
    
     <div class="container d-flex justify-content-center">
         <div class="services">
-            <div class="box-service">
+            <div class="box-service mt-0">
                 <h4 class="text-uppercase">ufficio tecnico</h4>
                 <span class="single-service">
                     Offriamo servizi di progettazione 3D e 2D che abbracciano diversi settori, dal meccanico al design. La nostra competenza ci permette di realizzare progetti personalizzati in co-design con il cliente, coinvolgendolo attivamente in ogni fase di sviluppo fino al completamento del progetto.
@@ -62,6 +62,10 @@ export default {
 
 .services{
     width: 70%;
+}
+
+.box-service{
+    margin-top: 2rem;
 }
 
 
