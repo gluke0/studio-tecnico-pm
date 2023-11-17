@@ -84,4 +84,9 @@ export default {
   background-color: rgb(96, 178, 249);  
 }
 
+.single-sponsor:hover, 
+.single-news:hover{
+  transform: scale(1.1);
+}
+
 </style>
