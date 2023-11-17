@@ -17,18 +17,39 @@ export default {
   <div class="container d-flex justify-content-center">
 
     <div class="content">
-      <div class="news d-flex justify-content-center">
+      <div class="news d-flex justify-content-between">
 
         <div class="single-news">
 
           single 
 
         </div>
+        <div class="single-news">
+
+          single 
+
+        </div>
+        <div class="single-news">
+
+          single 
+
+        </div>
+        
 
       </div>
 
-      <div class="sponsor d-flex justify-content-center">
+      <div class="sponsor d-flex justify-content-between">
 
+        <div class="single-sponsor">
+
+          single 
+
+        </div>
+        <div class="single-sponsor">
+
+          single 
+
+        </div>
         <div class="single-sponsor">
 
           single 
@@ -54,13 +75,13 @@ export default {
 }
 
 .single-news{
-  border: solid 1px black;
   padding: 6rem 8rem;
+  background-color: rgb(96, 178, 249);  
 }
 
 .single-sponsor{
-  border: solid 1px black;
   padding: 6rem 8rem;
+  background-color: rgb(96, 178, 249);  
 }
 
 </style>
