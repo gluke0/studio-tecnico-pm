@@ -21,7 +21,7 @@ export default {
 
         <div class="single-news">
 
-          single news
+          single 
 
         </div>
 
@@ -29,7 +29,11 @@ export default {
 
       <div class="sponsor d-flex justify-content-center">
 
-        sponsor in a carousel
+        <div class="single-sponsor">
+
+          single 
+
+        </div>
 
       </div>
     </div>
@@ -51,6 +55,12 @@ export default {
 
 .single-news{
   border: solid 1px black;
+  padding: 6rem 8rem;
+}
+
+.single-sponsor{
+  border: solid 1px black;
+  padding: 6rem 8rem;
 }
 
 </style>
