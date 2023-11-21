@@ -25,8 +25,7 @@ export default {
 
           <hr>
 
-          Per saperne di più sui nostri servizi e su come possiamo aiutarvi a crescere, contattateci per una consulenza gratuita. 
-            
+          Per saperne di più sui nostri servizi e su come possiamo aiutarvi a crescere, contattateci per una consulenza gratuita.
         </div>
     </div>
 

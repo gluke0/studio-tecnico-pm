@@ -28,9 +28,8 @@ export default {
       </div>
       <div class="logodiv d-flex justify-content-center container">
 
-        <!-- <img src="/img/header/oldlogo.webp" alt="Studio Tecnico Pedrini Logo"> -->
+        <img src="/img/header/logonb.png" alt="Studio Tecnico Pedrini Logo">
 
-        HERE WE HAVE THE LOGO
 
       </div>
     </div>
