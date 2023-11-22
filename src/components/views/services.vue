@@ -64,16 +64,22 @@ export default {
     width: 70%;
 }
 
-.box-service{
-    margin-top: 2rem;
-    padding: 2rem;
-    background-color: rgb(183, 179, 179);
-}
-
 .ser-title{
     font-weight: bolder;
     font-style: italic;
     font-size: 2rem;
 }
+
+.box-service:hover{
+    border: solid 3px grey;
+    font-size: larger;
+}
+
+.box-service{
+    margin-top: 2rem;
+    padding: 2rem;
+    background-color: rgb(175, 182, 182);
+}
+
 
 </style>
