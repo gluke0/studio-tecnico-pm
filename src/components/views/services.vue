@@ -66,6 +66,8 @@ export default {
 
 .box-service{
     margin-top: 2rem;
+    padding: 2rem;
+    background-color: rgb(183, 179, 179);
 }
 
 
