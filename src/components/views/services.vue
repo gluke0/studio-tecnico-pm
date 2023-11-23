@@ -71,8 +71,9 @@ export default {
 }
 
 .box-service:hover{
-    border: solid 3px grey;
-    font-size: larger;
+    -webkit-box-shadow: 0px 10px 13px -5px, 7px 7px 50px 10px rgba(155, 183, 190, 0.67); 
+    box-shadow: 0px 10px 13px -5px, 7px 7px 50px 10px rgba(155, 183, 190, 0.67);
+
 }
 
 .box-service{
