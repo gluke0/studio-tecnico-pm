@@ -17,6 +17,7 @@ export default {
    
     <div class="container d-flex justify-content-center">
         <div class="services">
+
             <div class="box-service mt-0">
                 <h4 class="text-uppercase ser-title">ufficio tecnico</h4>
                 <div class="d-flex justify-content-around wrap">
@@ -28,51 +29,67 @@ export default {
                     </span>
                 </div>
             </div>
+
             <div class="box-service">
                 <h4 class="text-uppercase ser-title">prototipi</h4>
-                <span class="single-service">
-                    Realizzazione fusioni prototipali grezze e/o lavorate e piccole serie per valutazioni tecnico-meccaniche del cliente
-                </span>
-                <div>
-                    <img class="imgser" src="/img/prototipi.webp/" alt="">
+                <div class="d-flex justify-content-around wrap">
+                    <span class="single-service">
+                        Realizzazione fusioni prototipali grezze e/o lavorate e piccole serie per valutazioni tecnico-meccaniche del cliente
+                    </span>
+                    <div>
+                        <img class="imgser" src="/img/prototipi.webp/" alt="">
+                    </div>
                 </div>
             </div>
+
             <div class="box-service">
                 <h4 class="text-uppercase ser-title">prototipazione rapida</h4>
-                <span class="single-service">
-                    Grazie a questa tecnologia siamo in grado di realizzare prototipi senza il costo di attrezzature in modo che il cliente possa già vedere fisicamente l'oggetto e valutarlo senza incappare in costi stampo magari da rivedere
-                </span>
-                <div>
-                    <img class="imgser" src="/img/prot-rapida.webp/" alt="">
+                <div class="d-flex justify-content-around wrap">
+                    <div>
+                        <img class="imgser" src="/img/prot-rapida.webp/" alt="">
+                    </div>
+                    <span class="single-service">
+                        Grazie a questa tecnologia siamo in grado di realizzare prototipi senza il costo di attrezzature in modo che il cliente possa già vedere fisicamente l'oggetto e valutarlo senza incappare in costi stampo magari da rivedere
+                    </span>
                 </div>
             </div>
+
             <div class="box-service">
                 <h4 class="text-uppercase ser-title">stampi</h4>
-                <span class="single-service">
-                    Siamo in grado di gestire varie tipologie di stampo; dal polistirolo al pressofuso, dal modello in legno alla conchiglia in gravità. 
-                </span>
-                <div>
-                    <img class="imgser" src="/img/stampi.webp/" alt="">
+                <div class="d-flex justify-content-around wrap">
+                    <span class="single-service">
+                        Siamo in grado di gestire varie tipologie di stampo; dal polistirolo al pressofuso, dal modello in legno alla conchiglia in gravità. 
+                    </span>
+                    <div>
+                        <img class="imgser" src="/img/stampi.webp/" alt="">
+                    </div>
                 </div>
             </div>
+
             <div class="box-service">
                 <h4 class="text-uppercase ser-title">reverse engineering</h4>
-                <span class="single-service">
-                    Ricostruzione file 3D a partire da digitalizzazione di oggetti con Scanner 3D 
-                </span>
-                <div>
-                    <img class="imgser" src="/img/reverse.webp/" alt="">
+                <div class="d-flex justify-content-around wrap">
+                    <div>
+                        <img class="imgser" src="/img/reverse.webp/" alt="">
+                    </div>
+                    <span class="single-service">
+                        Ricostruzione file 3D a partire da digitalizzazione di oggetti con Scanner 3D 
+                    </span>
                 </div>
             </div>
+
             <div class="box-service">
                 <h4 class="text-uppercase ser-title">lavorazioni meccaniche di precisione</h4>
-                <span class="single-service mt-5">
-                    Eseguiamo lavorazioni meccaniche di precisione. La nostra esperienza e un importante Know-how ci rendono il partner ideale per qualsiasi realtà
-                </span>
-                <div>
-                    <img class="imgser" src="/img/precision.webp/" alt="">
+                <div class="d-flex justify-content-around wrap">
+                    <span class="single-service mt-5">
+                        Eseguiamo lavorazioni meccaniche di precisione. La nostra esperienza e un importante Know-how ci rendono il partner ideale per qualsiasi realtà
+                    </span>
+                    <div>
+                        <img class="imgser" src="/img/precision.webp/" alt="">
+                    </div>
                 </div>
             </div>
+
         </div>
     </div>
 </template>
