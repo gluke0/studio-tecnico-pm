@@ -19,11 +19,13 @@ export default {
         <div class="services">
             <div class="box-service mt-0">
                 <h4 class="text-uppercase ser-title">ufficio tecnico</h4>
-                <span class="single-service">
-                    Offriamo servizi di progettazione 3D e 2D che abbracciano diversi settori, dal meccanico al design. La nostra competenza ci permette di realizzare progetti personalizzati in co-design con il cliente, coinvolgendolo attivamente in ogni fase di sviluppo fino al completamento del progetto.
-                </span>
-                <div>
-                    <img src="/img/ufficio.webp/" alt="">
+                <div class="d-flex justify-content-around wrap">
+                    <div>
+                        <img class="imgser" src="/img/ufficio.webp/" alt="">
+                    </div>
+                    <span class="single-service">
+                        Offriamo servizi di progettazione 3D e 2D che abbracciano diversi settori, dal meccanico al design. La nostra competenza ci permette di realizzare progetti personalizzati in co-design con il cliente, coinvolgendolo attivamente in ogni fase di sviluppo fino al completamento del progetto.
+                    </span>
                 </div>
             </div>
             <div class="box-service">
@@ -32,7 +34,7 @@ export default {
                     Realizzazione fusioni prototipali grezze e/o lavorate e piccole serie per valutazioni tecnico-meccaniche del cliente
                 </span>
                 <div>
-                    <img src="/img/prototipi.webp/" alt="">
+                    <img class="imgser" src="/img/prototipi.webp/" alt="">
                 </div>
             </div>
             <div class="box-service">
@@ -41,7 +43,7 @@ export default {
                     Grazie a questa tecnologia siamo in grado di realizzare prototipi senza il costo di attrezzature in modo che il cliente possa già vedere fisicamente l'oggetto e valutarlo senza incappare in costi stampo magari da rivedere
                 </span>
                 <div>
-                    <img src="/img/prot-rapida.webp/" alt="">
+                    <img class="imgser" src="/img/prot-rapida.webp/" alt="">
                 </div>
             </div>
             <div class="box-service">
@@ -50,7 +52,7 @@ export default {
                     Siamo in grado di gestire varie tipologie di stampo; dal polistirolo al pressofuso, dal modello in legno alla conchiglia in gravità. 
                 </span>
                 <div>
-                    <img src="/img/stampi.webp/" alt="">
+                    <img class="imgser" src="/img/stampi.webp/" alt="">
                 </div>
             </div>
             <div class="box-service">
@@ -59,7 +61,7 @@ export default {
                     Ricostruzione file 3D a partire da digitalizzazione di oggetti con Scanner 3D 
                 </span>
                 <div>
-                    <img src="/img/reverse.webp/" alt="">
+                    <img class="imgser" src="/img/reverse.webp/" alt="">
                 </div>
             </div>
             <div class="box-service">
@@ -68,7 +70,7 @@ export default {
                     Eseguiamo lavorazioni meccaniche di precisione. La nostra esperienza e un importante Know-how ci rendono il partner ideale per qualsiasi realtà
                 </span>
                 <div>
-                    <img src="/img/precision.webp/" alt="">
+                    <img class="imgser" src="/img/precision.webp/" alt="">
                 </div>
             </div>
         </div>
@@ -98,6 +100,15 @@ export default {
     margin-top: 2rem;
     padding: 2rem;
     background-color: rgb(175, 182, 182);
+}
+
+.single-service{
+    width: 50%;
+}
+
+.imgser{
+    width: 50%;
+    aspect-ratio: square;
 }
 
 
