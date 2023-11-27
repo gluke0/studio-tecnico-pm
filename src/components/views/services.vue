@@ -45,7 +45,7 @@ export default {
             <div class="box-service">
                 <h4 class="text-uppercase ser-title">prototipazione rapida</h4>
                 <div class="d-flex justify-content-around wrap">
-                    <div class="d-flex justify-content-center align-items-centerr">
+                    <div class="d-flex justify-content-center align-items-center">
                         <img class="imgser" src="/img/prot-rapida.webp/" alt="">
                     </div>
                     <span class="single-service d-flex align-items-center">
