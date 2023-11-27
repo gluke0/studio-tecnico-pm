@@ -21,7 +21,7 @@ export default {
             <div class="box-service mt-0">
                 <h4 class="text-uppercase ser-title">ufficio tecnico</h4>
                 <div class="d-flex justify-content-around wrap">
-                    <div class="d-flex justify-content-center items-center">
+                    <div class="d-flex justify-content-center align-items-center">
                         <img class="imgser" src="/img/ufficio.webp/" alt="">
                     </div>
                     <span class="single-service">
@@ -36,7 +36,7 @@ export default {
                     <span class="single-service">
                         Realizzazione fusioni prototipali grezze e/o lavorate e piccole serie per valutazioni tecnico-meccaniche del cliente
                     </span>
-                    <div class="d-flex justify-content-center items-center">
+                    <div class="d-flex justify-content-center align-items-center">
                         <img class="imgser" src="/img/prototipi.webp/" alt="">
                     </div>
                 </div>
@@ -45,7 +45,7 @@ export default {
             <div class="box-service">
                 <h4 class="text-uppercase ser-title">prototipazione rapida</h4>
                 <div class="d-flex justify-content-around wrap">
-                    <div class="d-flex justify-content-center items-center">
+                    <div class="d-flex justify-content-center align-items-centerr">
                         <img class="imgser" src="/img/prot-rapida.webp/" alt="">
                     </div>
                     <span class="single-service">
@@ -60,7 +60,7 @@ export default {
                     <span class="single-service">
                         Siamo in grado di gestire varie tipologie di stampo; dal polistirolo al pressofuso, dal modello in legno alla conchiglia in gravità. 
                     </span>
-                    <div class="d-flex justify-content-center items-center">
+                    <div class="d-flex justify-content-center align-items-center">
                         <img class="imgser" src="/img/stampi.webp/" alt="">
                     </div>
                 </div>
@@ -69,7 +69,7 @@ export default {
             <div class="box-service">
                 <h4 class="text-uppercase ser-title">reverse engineering</h4>
                 <div class="d-flex justify-content-around wrap">
-                    <div class="d-flex justify-content-center items-center">
+                    <div class="d-flex justify-content-center align-items-center">
                         <img class="imgser" src="/img/reverse.webp/" alt="">
                     </div>
                     <span class="single-service">
@@ -84,7 +84,7 @@ export default {
                     <span class="single-service">
                         Eseguiamo lavorazioni meccaniche di precisione. La nostra esperienza e un importante Know-how ci rendono il partner ideale per qualsiasi realtà
                     </span>
-                    <div class="d-flex justify-content-center items-center">
+                    <div class="d-flex justify-content-center align-items-center">
                         <img class="imgser" src="/img/precision.webp/" alt="">
                     </div>
                 </div>
