@@ -125,6 +125,11 @@ export default {
 
 .imgser {
   aspect-ratio: 1;
+  cursor: pointer;
+}
+
+.imgser:active{
+    transform: scale(3);
 }
 
 
