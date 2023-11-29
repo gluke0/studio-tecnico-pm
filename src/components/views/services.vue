@@ -123,9 +123,8 @@ export default {
     width: 50%;
 }
 
-.imgser{
-    width: 50%;
-    aspect-ratio: square;
+.imgser {
+  aspect-ratio: 1;
 }
 
 
