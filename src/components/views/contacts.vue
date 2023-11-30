@@ -15,7 +15,7 @@ export default {
 
 <template>
 
-    <div class="container my-5">
+    <div class="container my-5" id="contactscontacts">
         <div class="d-flex justify-content-around">
             <div class="icons d-flex row text-center">
                 <a target="_blank" href=""><i class="fa-solid fa-location-dot"></i></a>

@@ -14,7 +14,7 @@ export default {
 
 <template>
     
-  <div class="container d-flex justify-content-center">
+  <div class="container d-flex justify-content-center" id="newsnews">
 
     <div class="content">
       <div class="news d-flex justify-content-between">

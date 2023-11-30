@@ -18,13 +18,13 @@ export default {
       <div class="menudiv">
         <ul class="d-flex justify-content-around py-4">
 
-          <li class=""><a class="text-decoration-none text-dark text-uppercase" href=""> Chi siamo </a></li>
+          <li class=""><a class="text-decoration-none text-dark text-uppercase" href="#whoarewe"> Chi siamo </a></li>
 
-          <li class=""><a class="text-decoration-none text-dark text-uppercase" href=""> Cosa facciamo </a></li>
+          <li class=""><a class="text-decoration-none text-dark text-uppercase" href="#servicesservices"> Cosa facciamo </a></li>
 
-          <li class=""><a class="text-decoration-none text-dark text-uppercase" href=""> Notizie </a></li>
+          <li class=""><a class="text-decoration-none text-dark text-uppercase" href="#newsnews"> Notizie </a></li>
 
-          <li class=""><a class="text-decoration-none text-dark text-uppercase" href=""> Come contattarci </a></li>
+          <li class=""><a class="text-decoration-none text-dark text-uppercase" href="#contactscontacts"> Come contattarci </a></li>
           
         </ul>
       </div>
@@ -59,8 +59,10 @@ img{
   font-size: 1.5rem;
   height: 5rem;
 }
+
 li:hover{
   transform: scale(1.1);
+  cursor: pointer;
 }
 
 
