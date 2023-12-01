@@ -32,7 +32,6 @@ export default {
 
         <img src="/img/header/logonb.png" alt="Studio Tecnico Pedrini Logo">
 
-
       </div>
     </div>
   </div>

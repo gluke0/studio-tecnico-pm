@@ -22,7 +22,7 @@ export default {
 
         <div class="single-news">
 
-          single 
+          single
 
         </div>
         <div class="single-news">
