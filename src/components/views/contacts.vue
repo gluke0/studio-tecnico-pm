@@ -14,7 +14,7 @@ export default {
 </script>
 
 <template>
-    <div class="container my-5 py-3" id="contactscontacts">
+    <div class="container my-5 py-3" id="contactscontacts"> 
 
         <div class="d-flex justify-content-around">
             <div class="icons d-flex row text-center">
@@ -60,7 +60,4 @@ export default {
     transform: scale(1.1);
 }
 
-// #contactscontacts{
-//     background-color: red;
-// }
 </style>

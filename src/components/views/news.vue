@@ -36,7 +36,6 @@ export default {
 
         </div>
         
-
       </div>
 
       <div class="sponsor d-flex justify-content-between">
