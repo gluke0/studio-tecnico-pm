@@ -118,6 +118,7 @@ export default {
     margin-top: 2rem;
     padding: 2rem;
     background-color: rgb(175, 182, 182);
+    border-radius: 0.3rem;
 }
 
 .single-service{
@@ -127,6 +128,7 @@ export default {
 .imgser {
   aspect-ratio: 1;
   cursor: pointer;
+  border-radius: 0.3rem;
 }
 
 .imgser:active{
