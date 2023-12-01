@@ -15,7 +15,8 @@ export default {
 
 <template>
    
-    <div class="container d-flex justify-content-center" id="servicesservices">
+    <div class="container d-flex justify-content-center py-3" id="servicesservices">
+
         <div class="services">
 
             <div class="box-service mt-0">

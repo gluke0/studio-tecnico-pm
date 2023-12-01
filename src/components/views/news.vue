@@ -14,7 +14,8 @@ export default {
 
 <template>
     
-  <div class="container d-flex justify-content-center" id="newsnews">
+
+<div class="container d-flex justify-content-center py-3" id="newsnews" >
 
     <div class="content">
       <div class="news d-flex justify-content-between">
