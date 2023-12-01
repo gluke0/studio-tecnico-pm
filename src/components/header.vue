@@ -16,7 +16,7 @@ export default {
   <div class="">
     <div class="">
       <div class="menudiv">
-        <ul class="d-flex justify-content-around py-4">
+        <ul class="d-flex justify-content-around py-4 header">
 
           <li class=""><a class="text-decoration-none text-dark text-uppercase" href="#whoarewe"> Chi siamo </a></li>
 
@@ -44,6 +44,10 @@ export default {
 
 img{
   width: 70%;
+}
+
+.header{
+  font-weight: bold;
 }
 
 .logodiv{
