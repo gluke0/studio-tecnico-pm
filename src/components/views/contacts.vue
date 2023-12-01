@@ -18,7 +18,7 @@ export default {
 
         <div class="d-flex justify-content-around">
             <div class="icons d-flex row text-center">
-                <a target="_blank" href=""><i class="fa-solid fa-location-dot"></i></a>
+                <a target="_blank" href="https://maps.app.goo.gl/p2AfMGCYWThdFX466"><i class="fa-solid fa-location-dot"></i></a>
                 
                 <div> Via Italia, 4 </div>
                 <div> Casale Cremasco - Vidolasco </div>
