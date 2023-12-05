@@ -134,5 +134,5 @@ export default {
 .imgser:active{
     transform: scale(3);
 }
-
+ 
 </style>
