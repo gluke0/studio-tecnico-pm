@@ -83,7 +83,7 @@ export default {
                 <h4 class="text-uppercase ser-title">lavorazioni meccaniche di precisione</h4>
                 <div class="d-flex justify-content-around wrap">
                     <span class="single-service d-flex align-items-center">
-                        Eseguiamo lavorazioni meccaniche di precisione. La nostra esperienza e un importante Know-how ci rendono il partner ideale per qualsiasi realtà
+                        Eseguiamo lavorazioni meccaniche di precisione. La nostra esperienza e un importante know-how ci rendono il partner ideale per qualsiasi realtà
                     </span>
                     <div class="d-flex justify-content-center align-items-center">
                         <img class="imgser" src="/img/precision.webp/" alt="">
