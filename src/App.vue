@@ -5,7 +5,7 @@ import Footer from './components/footer.vue';
 export default {
   name: "App",
   data() {
-    return {
+    return{
     }
   },
   components: {
