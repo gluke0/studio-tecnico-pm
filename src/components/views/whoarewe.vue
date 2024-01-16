@@ -17,7 +17,7 @@ export default {
     <div class="container d-flex justify-content-center py-3" id="whoarewe">
         <div class="slogan my-5">
 
-          Lo Studio Tecnico Pedrini offre servizi di consulenza e produzione meccanica per aziende di qualsiasi dimensione e settore. Grazie a decenni di esperienza e alla vasta rete di aziende meccaniche che fanno parte della nostra holding, siamo in grado di gestire progetti di qualsiasi complessità, fornendo prodotti finiti di alta qualità o consulenze personalizzate.
+          Pedrini Engineering offre servizi di consulenza e produzione meccanica per aziende di qualsiasi dimensione e settore. Grazie a decenni di esperienza e alla vasta rete di aziende meccaniche che fanno parte della nostra holding, siamo in grado di gestire progetti di qualsiasi complessità, fornendo prodotti finiti di alta qualità o consulenze personalizzate.
 
           <hr>
 
