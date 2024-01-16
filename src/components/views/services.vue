@@ -54,7 +54,7 @@ export default {
                     </span>
                 </div>
             </div>
-
+            
             <div class="box-service">
                 <h4 class="text-uppercase ser-title">stampi</h4>
                 <div class="d-flex justify-content-around wrap">
@@ -103,8 +103,8 @@ export default {
 }
 
 .ser-title{
-    font-weight: bolder;
-    font-style: italic;
+    font-weight: bolder;    
+    font-style: italic;    
     font-size: 2rem;
 }
 
