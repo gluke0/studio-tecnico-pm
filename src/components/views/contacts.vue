@@ -24,7 +24,7 @@ export default {
                 <div> Casale Cremasco - Vidolasco</div>
                 <div> 26010 Cremona</div>
                 
-            </div>
+            </div> 
             <div class="icons d-flex row text-center">
                 <a target="_blank" class="p-0" href="tel:+393494759312"><i class="fa-solid fa-phone"></i></a>
                 <span>+39 3494759312</span>
